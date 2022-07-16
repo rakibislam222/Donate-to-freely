@@ -45,3 +45,18 @@ color: white;
    height: 100px;
    margin: 10px;
  }
+footer{
+  text-align: center;
+  font-size: 20px;
+  padding: 20%;
+  color: rgb 158 19 42;
+  font-family: sans-serif;
+  background-color: RGB	0, 0, 76 ;
+  height: 100px;
+  width: 100%;
+}
+#for{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: RGB	194, 158, 136;
+}
